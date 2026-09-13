@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>⚡ Ali Bhalli</h1>
-  <p><strong>Computer Science Student | Full-Stack Software Engineer</strong></p>
+  <p><strong>  | Full-Stack Software Engineer</strong></p>
 
 
 </div>
@@ -10,11 +10,15 @@
 
 ### 🚀 About Me
 
-Full-Stack Engineer focused on building resilient, high-throughput web systems that scale effortlessly under heavy traffic. Rather than just writing functional features, I apply core Computer Science principles to eliminate server bottlenecks, optimize data delivery pipelines, and solve complex state management challenges before they hit production.
+<p>
+  Full-Stack Engineer focused on building resilient, high-throughput web systems that scale effortlessly under heavy traffic. Rather than just writing functional features, I apply core Computer Science principles to eliminate server bottlenecks, optimize data delivery pipelines, and solve complex state management challenges before they hit production.
+</p>
 
-🎓 Education: BS Computer Science
-💻 Primary Stack: React, Next.js, TypeScript, Node.js, Express, MongoDB
-🎯 Engineering Focus: High-Concurrency Systems, API Performance, Database Optimization & Clean Architecture
+<ul>
+  <li>🎓 <strong>Education:</strong> BS Computer Science</li>
+  <li>💻 <strong>Primary Stack:</strong> React, Next.js, TypeScript, Node.js, Express, MongoDB</li>
+  <li>🎯 <strong>Engineering Focus:</strong> High-Concurrency Systems, API Performance, Database Optimization & Clean Architecture</li>
+</ul>
 
 ### 🧰 Tech Stack & Skills
 
